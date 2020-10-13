@@ -20,11 +20,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bffc453f-aec9-4fcb-b052-fdd6a4ef7cd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/inc/post-functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stylelintrc.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/content-slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/content-slider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/custom-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/customizer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/jetpack.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/template-functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/template-tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/boxesFx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/camera.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chart-functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/flexslider-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gmaps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.mb.YTPlayer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.nouislider.all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.themepunch.revolution.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.themepunch.tools.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.videobackground.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mediaelement-and-player.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/photostack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/progressbar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wobbly-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/world-maps/examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/world-maps/france_departments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/world-maps/jquery.mapael.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/world-maps/jquery.mousewheel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/world-maps/raphael-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/world-maps/usa_states.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/world-maps/world_countries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpcs.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style-rtl.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +92,7 @@
       <updated>1602357625290</updated>
       <workItem from="1602357626342" duration="6461000" />
       <workItem from="1602406626368" duration="5776000" />
+      <workItem from="1602607413526" duration="2408000" />
     </task>
     <servers />
   </component>
@@ -76,11 +109,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1602418574178">
+    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1602608248617">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1602418574178" />
+    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1602608248617" />
   </component>
 </project>

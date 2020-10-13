@@ -99,7 +99,7 @@
 						<li>/</li>
 						<li><a href="#"><span>Help Center</span></a></li>
 						<li>/</li>
-						<li><a href="#"><span>Contact Us</span></a></li>
+						<li><a href="#"><span>Contact Usss</span></a></li>
 					</ul>
 				</div>
 			</div>
